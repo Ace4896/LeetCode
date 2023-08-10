@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace LeetCode;
+﻿namespace LeetCode;
 
 public class P23_MergeKSortedLists
 {
